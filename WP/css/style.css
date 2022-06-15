@@ -1,0 +1,9 @@
+.hidden {
+    display: none;
+}
+
+.beauty {
+    border: 4mm ridge rgba(211, 220, 50, .6);
+    margin-right: 1800px;
+    padding: 20px;
+}
